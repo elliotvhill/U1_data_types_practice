@@ -5,14 +5,22 @@
  * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
 
-let myFavoriteSong = `"Humiliation" by The National`
-console.log(`My favorite song is ${myFavoriteSong}.`)
+/* let myFavoriteSong = `"Humiliation" by The National`
+console.log(`My favorite song is ${myFavoriteSong}.`) */
 
 /*
  * Prompt 2:
  *
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
+
+let myFavAlbum = `'Trouble Will Find Me' by The National`
+const myHomeState = `Connecticut`
+var myFavFood = `cookies`
+
+console.log(`My favorite album is ${myFavAlbum}.`)
+console.log(`I am from ${myHomeState}.`)
+console.log(`My favorite food is ${myFavFood}.`)
 
 /*
  * Prompt 3:
