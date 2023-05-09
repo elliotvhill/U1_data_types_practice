@@ -52,10 +52,10 @@ console.log(num % 2) */
  * Run a console.log that says 'hello my name is..." with your fullName. 
  */
 
-const firstName = 'Elliot'
+/* const firstName = 'Elliot'
 const lastName = 'Hill'
 const fullName = `${firstName} ${lastName}`
-console.log(`Hello, my name is ${fullName}.`)
+console.log(`Hello, my name is ${fullName}.`) */
 
 /* Arrays */
 
@@ -76,6 +76,10 @@ let array3 = [
   ['Marty Feldman', ['Marty Marion']],
   ['Marty Stuart', ['Marty Janetty', ['Marty McFly'], 'Marty Robbins']]
 ];
+
+console.log(`Array 1: `, array1[2])
+console.log(`Array 2: `, array2[1][1])
+console.log(`Array 3: `, array3[1][1][1][0])
 
 /*
  * Prompt 2:
