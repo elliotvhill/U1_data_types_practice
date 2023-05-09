@@ -66,7 +66,7 @@ console.log(`Hello, my name is ${fullName}.`) */
  * Retrieve "Marty McFly" from each of the arrays below.
  */
 
-let array1 = ['Marty Marion', 'Marty Feldman', 'Marty McFly', 'Marty Marion'];
+/* let array1 = ['Marty Marion', 'Marty Feldman', 'Marty McFly', 'Marty Marion'];
 let array2 = [
   ['Marty Feldman', 'Marty Marion'],
   ['Marty Stuart', 'Marty McFly'],
@@ -79,7 +79,7 @@ let array3 = [
 
 console.log(`Array 1: `, array1[2])
 console.log(`Array 2: `, array2[1][1])
-console.log(`Array 3: `, array3[1][1][1][0])
+console.log(`Array 3: `, array3[1][1][1][0]) */
 
 /*
  * Prompt 2:
@@ -88,6 +88,8 @@ console.log(`Array 3: `, array3[1][1][1][0])
  */
 
 let array4 = ['a', 'b', 'c', 'd', 'e'];
+
+console.log(`The second to last item in the array is `, array4[(array4.length - 2)])
 
 /*
  * Prompt 3:
