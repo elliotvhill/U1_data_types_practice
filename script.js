@@ -14,13 +14,13 @@ console.log(`My favorite song is ${myFavoriteSong}.`) */
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
 
-let myFavAlbum = `'Trouble Will Find Me' by The National`
+/* let myFavAlbum = `'Trouble Will Find Me' by The National`
 const myHomeState = `Connecticut`
 var myFavFood = `cookies`
 
 console.log(`My favorite album is ${myFavAlbum}.`)
 console.log(`I am from ${myHomeState}.`)
-console.log(`My favorite food is ${myFavFood}.`)
+console.log(`My favorite food is ${myFavFood}.`) */
 
 /*
  * Prompt 3:
@@ -32,6 +32,13 @@ console.log(`My favorite food is ${myFavFood}.`)
  *   - divide your variable by 7
  *   - calculate the remainder of dividing your variable by 2
  */
+
+let num = 8
+console.log(num + 3)
+console.log(num - 7)
+console.log(num * 3)
+console.log(num / 7)
+console.log(num % 2)
 
 /*
  * Prompt 4:
