@@ -33,12 +33,12 @@ console.log(`My favorite food is ${myFavFood}.`) */
  *   - calculate the remainder of dividing your variable by 2
  */
 
-let num = 8
+/* let num = 8
 console.log(num + 3)
 console.log(num - 7)
 console.log(num * 3)
 console.log(num / 7)
-console.log(num % 2)
+console.log(num % 2) */
 
 /*
  * Prompt 4:
@@ -52,6 +52,10 @@ console.log(num % 2)
  * Run a console.log that says 'hello my name is..." with your fullName. 
  */
 
+const firstName = 'Elliot'
+const lastName = 'Hill'
+const fullName = `${firstName} ${lastName}`
+console.log(`Hello, my name is ${fullName}.`)
 
 /* Arrays */
 
